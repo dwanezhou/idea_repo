@@ -8,4 +8,7 @@ public class Test {
     public void masterBranch(){
         System.out.println("master...");
     }
+    public void bugfix(){
+        System.out.println("fixing...");
+    }
 }
