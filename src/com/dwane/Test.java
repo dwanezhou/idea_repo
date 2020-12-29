@@ -15,4 +15,9 @@ public class Test {
     public void newFunction(){
         System.out.println("123");
     }
+
+    public void delete(){
+        System.out.println("delete some");
+    }
+
 }
