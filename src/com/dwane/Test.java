@@ -15,4 +15,8 @@ public class Test {
     public void newFunction(){
         System.out.println("123");
     }
+    
+    public void add(){
+        System.out.println("add new ");
+    }
 }
