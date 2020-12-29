@@ -20,4 +20,8 @@ public class Test {
         System.out.println("delete some");
     }
 
+
+    public void add(){
+        System.out.println("add new ");
+    }
 }
