@@ -11,7 +11,9 @@ public class Test {
     public void bugfix(){
         System.out.println("fixing...");
     }
-    public void func2(){
-        
+    public void fddsfsa(){
+        //ss
+        //ss
+        //ss
     }
 }
