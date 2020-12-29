@@ -12,6 +12,6 @@ public class Test {
         System.out.println("fixing...");
     }
     public void newFunc(){
-        System.out.println("new Function");
+        System.out.println("new Funon");
     }
 }
