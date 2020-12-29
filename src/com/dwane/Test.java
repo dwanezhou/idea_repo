@@ -11,7 +11,7 @@ public class Test {
     public void bugfix(){
         System.out.println("fixing...");
     }
-    public void newFunc(){
-        System.out.println("new Funon");
+    public void func2(){
+        
     }
 }
