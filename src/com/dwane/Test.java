@@ -11,4 +11,7 @@ public class Test {
     public void bugfix(){
         System.out.println("fixing...");
     }
+    public void newFunc(){
+        System.out.println("new Function");
+    }
 }
