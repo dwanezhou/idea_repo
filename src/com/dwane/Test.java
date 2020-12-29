@@ -11,9 +11,8 @@ public class Test {
     public void bugfix(){
         System.out.println("fixing...");
     }
-    public void fddsfsa(){
-        //ss
-        //ss
-        //ss
+
+    public void newFunction(){
+        System.out.println("123");
     }
 }
